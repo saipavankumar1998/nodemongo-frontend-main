@@ -1,0 +1,52 @@
+.preferencesDiv{
+  position:relative;
+  width:400px;
+  height:400px;
+  top:150px;
+  border-radius: 35px;
+  background: #bdacd1;
+  box-shadow:  6px 6px 22px #b3b3b3,
+             -6px -6px 22px #ffffff;
+}
+
+.prefsInputField{
+  width:280px;
+  height:40px;
+  margin-top:10px;
+  padding: 20px;
+  box-shadow: -1px -1px 4px white,  1px 1px 4px #BABECC;
+}
+
+.prefsLabel{
+display:inline;
+color:black;
+
+}
+
+.selection{
+  float:right;
+  width:140px;
+  height:22px;
+ 
+}
+
+.prefsbutton{
+  width:100px;
+  margin-left:140px;
+  margin-top:-40px;
+  display:inline-block;
+}
+
+.selectContainer{
+  margin-bottom:35px;
+}
+
+
+
+// .buttonSpan{
+//   display: flex;
+// }
+
+// #editButton{
+//   margin-left: 20px;
+// }

@@ -1,0 +1,42 @@
+
+
+.profileDiv{
+  position:relative;
+  width:400px;
+  height:400px;
+  top:150px;
+  border-radius: 35px;
+  background: #bdacd1;
+  box-shadow:  6px 0px 22px #b3b3b3,
+             -6px -6px 22px #ffffff;
+}
+
+.innerContainer{
+  padding: 40px 40px 40px 40px;
+}
+
+.profinputField{
+  // align-items: center;
+ width:280px;
+ height:20px;
+ margin-bottom:20px;
+ margin-left:15px;
+  padding: 20px;
+  box-shadow: -1px -1px 4px white,  1px 1px 4px #BABECC;
+}
+
+.profbutton{
+  width:100px;
+  margin-top:30px;
+  display:inline-block;
+}
+
+.profbuttonSpanDiv{
+  position:relative;
+  bottom:40px;
+  left:80px;
+}
+
+#editButton{
+   margin-left: 20px;
+ }
